@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://img.shields.io/liberapay/patrons/kz6fittycent.svg?logo=liberapay">
+
+### Welcome to my repo! Hope you find some use for the things I create and manage. 
 
 <!--
 **kz6fittycent/kz6fittycent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
