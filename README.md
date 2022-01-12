@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/liberapay/patrons/kz6fittycent.svg?logo=liberapay">
+#<img src="https://img.shields.io/liberapay/patrons/kz6fittycent.svg?logo=liberapay">
 
 ### Welcome to my repo! Hope you find some use for the things I create and manage. 
 
