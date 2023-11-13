@@ -1,6 +1,6 @@
 
 ### Welcome to my repo! Hope you find some use for the things I create and manage. 
-#### If you like what I'm doing, please consider donating any amount of XMR to the following address: 
+<!---#### If you like what I'm doing, please consider donating any amount of XMR to the following address: 
 `48PsTSFtxbgRbJqZHCUFS9bGNBConcditHuiRQM3EaALP7hodg98zChNNZLd5dkZFgGojzEsDbG5wc8g2dUYqmJnV3AtCRD`
  
 <!--
