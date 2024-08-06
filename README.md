@@ -9,6 +9,10 @@ May I wish for all men's happiness and envy none . . . May I win no victory whic
 May I respect myself . . . May I always keep tame that which rages within me." (This Age of Confusion, p. 296.)
 ```
 
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/kz6fittycent/kz6fittycent/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="KZ6FITTYCENT" />
+</p>
+
 <!---#### If you like what I'm doing, please consider donating any amount of XMR to the following address: 
 `48PsTSFtxbgRbJqZHCUFS9bGNBConcditHuiRQM3EaALP7hodg98zChNNZLd5dkZFgGojzEsDbG5wc8g2dUYqmJnV3AtCRD`
  
