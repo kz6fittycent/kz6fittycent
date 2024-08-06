@@ -6,7 +6,7 @@ May I be no man's enemy, and may I be the friend of that which is eternal . . .
 May I never devise evil against any man: if any devise evil against me,
 may I escape . . . without the need of hurting him. May I love, seek, and attain only that which is good.
 May I wish for all men's happiness and envy none . . . May I win no victory which harms me or my opponent . . .
-May I respect myself . . . May I always keep tame that which rages within me." (This Age of Confusion, p. 296.)
+May I respect myself . . . May I always keep tame that which rages within me. (This Age of Confusion, p. 296.)
 ```
 
 <p align="center" style="width: 100%;">
