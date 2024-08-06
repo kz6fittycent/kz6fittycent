@@ -13,6 +13,13 @@ May I respect myself . . . May I always keep tame that which rages within me." (
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/kz6fittycent/kz6fittycent/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="KZ6FITTYCENT" />
 </p>
 
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=kz6fittycent&theme=onedark" alt="KZ6FITTYCENT" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kz6fittycent&show_icons=true&locale=en&theme=onedark" alt="KZ6FITTYCENT" />
+    </span>
+</p>
+
 <!---#### If you like what I'm doing, please consider donating any amount of XMR to the following address: 
 `48PsTSFtxbgRbJqZHCUFS9bGNBConcditHuiRQM3EaALP7hodg98zChNNZLd5dkZFgGojzEsDbG5wc8g2dUYqmJnV3AtCRD`
  
