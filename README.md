@@ -4,6 +4,7 @@
 #### If you like what I'm doing, please consider supporting me on Patreon!
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/kz6fittycent)
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/kz6fittycent)   
 ```
 May I be no man's enemy, and may I be the friend of that which is eternal . . .
 May I never devise evil against any man: if any devise evil against me,
