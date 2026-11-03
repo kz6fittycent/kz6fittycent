@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kz6fittycent&color=blue)
 ### Welcome to my repo! Hope you find some use for the things I create and manage. 
 
-#### If you like what I'm doing, please consider supporting me on Patreon!
+#### If you like what I'm doing, please consider supporting me on Patreon or Ko-Fi!
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/kz6fittycent)
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/kz6fittycent)   
